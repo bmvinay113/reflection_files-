@@ -9,14 +9,20 @@ the case with working directory and repository
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+By checking the difference between working directory and staging area
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When multiple people are working on project
 
 How do the diagrams help you visualize the branch structure?
+It helps in understanding concepts more clearly
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+New features are added to the project, it will help in keeping track of different 
+commits done
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Automatic merge doesn't shows the complexity present behind the scene 
