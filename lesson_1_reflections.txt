@@ -19,7 +19,7 @@ well be good choice
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    In big projects multiple file dependency will be present so itis needed
+    In big projects multiple file dependency will be present so it is needed
 
 How can you use the commands git log and git diff to view the history of files?
 
