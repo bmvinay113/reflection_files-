@@ -17,3 +17,5 @@ remote repository.
  Clones -used to make a copy from remote repository to local repository
  Branches -To create branch within the repository
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ This will help to know whether the local repository is in sync with the remote repository
